@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Łukasz.
-- 👀 I’m interested in programming, sports (gym and running) and motorization.
-- 🌱 I’m currently learning Javascript with the React library.
-- 📫 Contact: l.machalewski@gmail.com
+👋 Hi, I’m Łukasz. <br>
+👀 I’m interested in programming, sports (gym and running) and motorization. <br>
+🌱 I’m currently learning Javascript with the React library. <br>
+📫 Contact: l.machalewski@gmail.com
 
 <br>
-<b>Some of my projects</b> <br>
+<b>Some of my projects: </b> <br> <br>
 - <b>Furry game</b> - OOP in Javascript  <br>
 https://github.com/Luukkasz/Furry-Game <br>
 https://furry-game-476ee.web.app/
