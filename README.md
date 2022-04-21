@@ -13,6 +13,6 @@ https://furry-game-476ee.web.app/
 https://github.com/Luukkasz/todo_react_v1 <br>
 https://todo-app-97127.web.app/
 <br> <br>
-- <b>Responsive website</b> - one of my first projects <br>
+- <b>Responsive website</b>  <br>
 https://github.com/Luukkasz/BestShop-project <br>
 https://luukkasz.github.io/BestShop-project/
