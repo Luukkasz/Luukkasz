@@ -5,6 +5,9 @@
 
 <br>
 <b>Some of my projects: </b> <br> <br>
+- <b>Student App</b> - made using React (still in progress)  <br>
+https://github.com/Luukkasz/student-app 
+<br> <br>
 - <b>Furry game</b> - OOP in Javascript  <br>
 https://github.com/Luukkasz/Furry-Game <br>
 https://furry-game-476ee.web.app/
