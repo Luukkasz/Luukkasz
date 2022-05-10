@@ -13,8 +13,8 @@ https://github.com/Luukkasz/Furry-Game <br>
 https://furry-game-476ee.web.app/
 <br> <br>
 - <b>Todo App</b> - made using React <br>
-https://github.com/Luukkasz/todo_react_v1 <br>
-https://todo-app-97127.web.app/
+https://github.com/Luukkasz/todo_react_v2 <br>
+https://todo-app-v2-da0bf.web.app/
 <br> <br>
 - <b>Responsive website</b>  <br>
 https://github.com/Luukkasz/BestShop-project <br>
