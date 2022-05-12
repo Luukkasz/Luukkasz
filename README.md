@@ -5,16 +5,19 @@
 
 <br>
 <b>Some of my projects: </b> <br> <br>
-- <b>Student App</b> - made using React (still in progress)  <br>
+- <b>Diet planner</b> - React (still in progress)  <br>
+https://github.com/Luukkasz/diet_planner 
+<br> <br>
+- <b>Student App</b> - React (still in progress)  <br>
 https://github.com/Luukkasz/student-app 
+<br> <br>
+- <b>Todo App</b> - React <br>
+https://github.com/Luukkasz/todo_react_v2 <br>
+https://todo-app-v2-da0bf.web.app/
 <br> <br>
 - <b>Furry game</b> - OOP in Javascript  <br>
 https://github.com/Luukkasz/Furry-Game <br>
 https://furry-game-476ee.web.app/
-<br> <br>
-- <b>Todo App</b> - made using React <br>
-https://github.com/Luukkasz/todo_react_v2 <br>
-https://todo-app-v2-da0bf.web.app/
 <br> <br>
 - <b>Responsive website</b>  <br>
 https://github.com/Luukkasz/BestShop-project <br>
