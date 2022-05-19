@@ -5,7 +5,7 @@
 
 <br>
 <b>Some of my projects: </b> <br> <br>
-- <b>Diet planner</b> - React (still in progress)  <br>
+- <b>Diet planner</b> - React  <br>
 https://github.com/Luukkasz/diet_planner <br>
 https://diet-planner-20408.web.app/
 <br> <br>
