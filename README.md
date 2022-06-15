@@ -19,3 +19,7 @@ https://furry-game-476ee.web.app/
 - <b>Responsive website</b>  <br>
 https://github.com/Luukkasz/BestShop-project <br>
 https://luukkasz.github.io/BestShop-project/
+<br> <br>
+- <b>Backend exercises in JS</b>  <br>
+https://github.com/Luukkasz/MegaK <br>
+
